@@ -5,6 +5,7 @@ ca-certificates=2020.12.5=h033912b_0
 certifi=2020.12.5=py38h50d1736_1
 click=7.1.2=pyh9f0ad1d_0
 flask=1.1.2=pyh9f0ad1d_0
+gunicorn=20.1.0=py38h50d1736_0
 itsdangerous=1.1.0=py_0
 jinja2=2.11.3=pyh44b312d_0
 libcxx=11.1.0=habf9029_0
