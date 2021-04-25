@@ -1,8 +1,8 @@
 certifi==2020.12.5
 click==7.1.2
 Flask==1.1.2
-gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1617043238748/work
+gunicorn==20.1.0
 itsdangerous==1.1.0
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1612119311452/work
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1610127533370/work
+Jinja2==2.11.3
+MarkupSafe==1.1.1
 Werkzeug==1.0.1
